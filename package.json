@@ -1,13 +1,13 @@
 {
-  "name": "kineticcastes",
-  "version": "2.2.1",
-  "productName": "KineticAndCastes Launcher",
+  "name": "iaa",
+  "version": "1.0.0",
+  "productName": "I&A Launcher",
   "description": "Modded Minecraft Launcher",
   "author": "KIS Hosted By DJ SORROW",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/DEVxKIS/Kenetic-Castes",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/DEVxKIS/Kenetic-Castes/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/DEVxKIS/Kenetic-Castes.git"
   }
 }
