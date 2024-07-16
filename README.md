@@ -1,6 +1,6 @@
 <p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="Aventium Softworks"></p>
 
-<h1 align="center">K&S Launcher</h1>
+<h1 align="center">I&A Launcher</h1>
 
 <em><h5 align="center">(Hosted By DJ SORROW)</h5></em>
 
