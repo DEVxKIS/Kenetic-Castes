@@ -3145,6 +3145,24 @@ input:checked + .toggleSwitchSlider:before {
     fill: #1b8dd4;
 }
 
+/* Boosty icon colors. */
+#BoostySVG:hover,
+#BoostyURL:focus #BoostySVG {
+    fill: #F15F2C;
+}
+#BoostySVG:active {
+    fill: #F15F2C;
+}
+
+/* VK colors */
+#icon_vk:hover,
+#VKURL:focus #icon_vk {
+    fill: #027bc7;
+}
+#icon_vk:active {
+    fill: #0270b4;
+}
+
 /* Instagram icon colors. */
 #instagramSVG:hover,
 #instagramURL:focus #instagramSVG {
@@ -3162,6 +3180,15 @@ input:checked + .toggleSwitchSlider:before {
 }
 #youtubeSVG:active {
     fill: #ea0202;
+}
+
+/* RuTube icon colors. */
+#icon_rt:hover,
+#RuTubeURL:focus #icon_rt {
+    fill: rgb(219, 0, 0);
+}
+#icon_rt:active {
+    fill: #d10202;
 }
 
 /* Discord icon colors. */
