@@ -39,7 +39,7 @@
 
 Лучший способ связаться с разработчиками — через Discord.
 
-[![дискорд](https://discord.gg/vu9MsTPZTB)][дискорд]
+[дискорд](https://discord.gg/vu9MsTPZTB)]
 
 ---
 
